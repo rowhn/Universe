@@ -184,6 +184,8 @@ z = b * sin(angle)
 - [ ] VR support via WebXR
 
 ---
+<img width="1920" height="975" alt="image" src="https://github.com/user-attachments/assets/e9b38fd3-cb0e-4f34-baaa-2550e1bfd8bf" />
+
 
 *Built with React Three Fiber, Three.js, and custom GLSL shaders.*  
 *All orbital data sourced from NASA/JPL Solar System Dynamics.*
