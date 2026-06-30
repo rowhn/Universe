@@ -3,7 +3,8 @@
 A photorealistic, fully immersive 3D WebGL solar system simulation built with React + Three.js (React Three Fiber).
 
 ---
-
+LIVE LINK: universe-01.netlify.app
+---
 ## ✨ Features
 
 ### 🌟 Rendering & Visuals
